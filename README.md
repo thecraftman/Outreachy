@@ -13,7 +13,7 @@ Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://
 
 --------------------------------------
 
-- Google DOc extended report [here](https://docs.google.com/document/d/1Ut8qFAs8UtnruXCLsDNbxmqI3gfzZCuG5rrLmoQPJlg/edit?usp=sharing)
+- Google DOC extended report [here](https://docs.google.com/document/d/1Ut8qFAs8UtnruXCLsDNbxmqI3gfzZCuG5rrLmoQPJlg/edit?usp=sharing)
 
 -  Outreachy Medium blog posts:
    1. [My Outreachy Journey](https://medium.com/@thecraftman/my-outreachy-journey-everybody-struggles-682a4943a1cf)
