@@ -11,7 +11,7 @@ Based on CHAOSS D&I standards, integration of multiple languages will help strea
 
 Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://github.com/germonprez), [Saleh Abdel Motaal](https://github.com/SMotaal)
 
-
+--------------------------------------
 
 - Google DOc extended report [here](https://docs.google.com/document/d/1Ut8qFAs8UtnruXCLsDNbxmqI3gfzZCuG5rrLmoQPJlg/edit?usp=sharing)
 
@@ -19,8 +19,10 @@ Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://
    1. [My Outreachy Journey](https://medium.com/@thecraftman/my-outreachy-journey-everybody-struggles-682a4943a1cf)
    2. [How i got selected as an Outreachy Intern](https://chaoss.community/mentorship-blog/2020/05/14/outreachy-blog/)
    
+   
 
 - Translation work done on CHAOSS Community handbook [here](https://github.com/thecraftman/governance/tree/translation/es/community-handbook)
+-------------------------------------------
 
 #### PLATFORMS analyzed and reviewed
 
@@ -55,6 +57,7 @@ Work documentation worked on so far:
 - [Automate  content using Locize CLI (API)](https://gist.github.com/thecraftman/5c8fdd733bdac2bd405e6b195f55090c)
 
 - [Locize Translation View (with images)](https://gist.github.com/thecraftman/7c855a29adc03ab7583f6e40260bc2a8)
+---------------------------------------------
 
 **GitLocalize**
 - [Workflow so far implemented using GitLocalize](https://gist.github.com/thecraftman/13da6a19f3bae56e39ab5dbf6ecc0752)
