@@ -43,12 +43,19 @@ Features implemented and experimented on Weblate
 
 **CROWDIN**
 Work documentation worked on so far:
-[1](https://github.com/thecraftman/badging-experimental-crowdin)
-[2](https://gist.github.com/thecraftman/c2136f45b39fd54ca2f04f632d29ad87)
+- [1](https://github.com/thecraftman/badging-experimental-crowdin)
+- [2](https://gist.github.com/thecraftman/c2136f45b39fd54ca2f04f632d29ad87)
 
 --------------------------------------
 
 **I18Next (LOCIZE)**
+- [Experimental work implemented so far using Locize](https://gist.github.com/thecraftman/1fc780edc5cad18469b823880595f95e)
+
+
+- [Automate  content using Locize CLI (API)](https://gist.github.com/thecraftman/5c8fdd733bdac2bd405e6b195f55090c)
+
+- [Locize Translation View (with images)](https://gist.github.com/thecraftman/7c855a29adc03ab7583f6e40260bc2a8)
+
 
 
 
