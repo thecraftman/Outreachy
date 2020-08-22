@@ -56,6 +56,11 @@ Work documentation worked on so far:
 
 - [Locize Translation View (with images)](https://gist.github.com/thecraftman/7c855a29adc03ab7583f6e40260bc2a8)
 
+**GitLocalize**
+- [Workflow so far implemented using GitLocalize](https://gist.github.com/thecraftman/13da6a19f3bae56e39ab5dbf6ecc0752)
+- [Recorded video](https://drive.google.com/drive/folders/1YC-f7knRp_kUfMqunsNy9YqjLUPQKm6H?usp=sharing)
+
+
 
 
 
