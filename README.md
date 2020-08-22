@@ -12,3 +12,32 @@ Based on CHAOSS D&I standards, integration of multiple languages will help strea
 Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://github.com/germonprez), [Saleh Abdel Motaal](https://github.com/SMotaal)
 
 
+
+- Google DOc extended report [here](https://docs.google.com/document/d/1Ut8qFAs8UtnruXCLsDNbxmqI3gfzZCuG5rrLmoQPJlg/edit?usp=sharing)
+
+-  Outreachy Medium blog posts:
+   1. [My Outreachy Journey](https://medium.com/@thecraftman/my-outreachy-journey-everybody-struggles-682a4943a1cf)
+   2. [How i got selected as an Outreachy Intern](https://chaoss.community/mentorship-blog/2020/05/14/outreachy-blog/)
+   
+
+- Translation work done on CHAOSS Community handbook [here](https://github.com/thecraftman/governance/tree/translation/es/community-handbook)
+
+#### PLATFORMS analyzed and reviewed
+
+**WEBLATE** 
+
+Features implemented and experimented on Weblate 
+
+- [Experimental work implemented so far using Weblate](https://github.com/thecraftman/experimental-weblate/tree/staging)
+
+-  [Experimental deployment and configuration of the Weblate Backend using Docker](https://github.com/thecraftman/experimental-weblate/tree/staging)
+*This repository uses a locally hosted Weblate container intended to be used on environments that support docker and npm.*
+
+- [Configuring and Installing Vscode, Docker and NPM on Windows Subsystem for Linux ](https://hackmd.io/MEF_ppMRRkeHz_IifIolPg)
+	 [2](https://gist.github.com/thecraftman/de3f4e0d62a4a2b9d1289c74d084a693)
+- [Configuring the Python environment on WSL & Windows machine](https://hackmd.io/-5klK7JxSTi6goi5Ee8Mfg) 
+	[2](https://gist.github.com/thecraftman/fc93c38b31065a3d703a2ef23f3e57dd)
+
+
+
+
