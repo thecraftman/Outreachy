@@ -16,7 +16,9 @@ Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://
 - [Badging by CHAOSS Repo](https://github.com/badging/)
 - [CHAOSS-MICROTASKS](https://github.com/thecraftman/CHAOSS-microtasks)
 
+
 - Google DOC extended report [here](https://docs.google.com/document/d/1Ut8qFAs8UtnruXCLsDNbxmqI3gfzZCuG5rrLmoQPJlg/edit?usp=sharing)
+- [Experimental Localization](https://github.com/thecraftman/I18n-CHAOSS)
 
 -  Outreachy Medium blog posts:
    1. [My Outreachy Journey](https://medium.com/@thecraftman/my-outreachy-journey-everybody-struggles-682a4943a1cf)
