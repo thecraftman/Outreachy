@@ -32,7 +32,7 @@ Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://
 
 #### PLATFORMS analyzed and reviewed
 
-**WEBLATE** 
+**WEBLATE*
 
 Features implemented and experimented on Weblate 
 
