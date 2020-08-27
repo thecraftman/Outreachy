@@ -34,7 +34,7 @@ Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://
 
 **WEBLATE**
 
-Features implemented and experimented on Webla 
+Features implemented and experimented on Weblat 
 
 - [Experimental work implemented so far using Weblate](https://github.com/thecraftman/experimental-weblate/tree/staging)
 
