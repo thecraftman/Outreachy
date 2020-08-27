@@ -34,7 +34,7 @@ Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://
 
 **WEBLATE**
 
-Features implemented and experimented on Weblat 
+Features implemented and experimented on Weblate 
 
 - [Experimental work implemented so far using Weblate](https://github.com/thecraftman/experimental-weblate/tree/staging)
 
@@ -42,9 +42,11 @@ Features implemented and experimented on Weblat
 *This repository uses a locally hosted Weblate container intended to be used on environments that support docker and npm.*
 
 - [Configuring and Installing Vscode, Docker and NPM on Windows Subsystem for Linux ](https://hackmd.io/MEF_ppMRRkeHz_IifIolPg)
-	 [2](https://gist.github.com/thecraftman/de3f4e0d62a4a2b9d1289c74d084a693)
+
+	 [E](https://gist.github.com/thecraftman/de3f4e0d62a4a2b9d1289c74d084a693)
+
 - [Configuring the Python environment on WSL & Windows machine](https://hackmd.io/-5klK7JxSTi6goi5Ee8Mfg) 
-	[2](https://gist.github.com/thecraftman/fc93c38b31065a3d703a2ef23f3e57dd)
+	[3](https://gist.github.com/thecraftman/fc93c38b31065a3d703a2ef23f3e57dd)
 	
 ---------------------------------------
 	
