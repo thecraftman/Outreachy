@@ -74,7 +74,7 @@ Work documentation worked on so far:
 
 ------------------------
 
-### If you have any questions or suggestions
+### If you have any questions or suggestions, please feel free to open an issue or drop a Pull request. 
 
 
 
