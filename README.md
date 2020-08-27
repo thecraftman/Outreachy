@@ -55,7 +55,7 @@ Features implemented and experimented on Weblate
 **CROWDIN**
 Work documentation worked on so far:
 - [Badging experimental Crowdin repo](https://github.com/thecraftman/badging-experimental-crowdin)
-- [2](https://gist.github.com/thecraftman/c2136f45b39fd54ca2f04f632d29ad87)
+- [Crowdin Crite](https://gist.github.com/thecraftman/c2136f45b39fd54ca2f04f632d29ad87)
 
 --------------------------------------
 
