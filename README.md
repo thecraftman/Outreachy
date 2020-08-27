@@ -46,7 +46,7 @@ Features implemented and experimented on Weblate
 	 [Experimental features](https://gist.github.com/thecraftman/de3f4e0d62a4a2b9d1289c74d084a693)
 
 - [Configuring the Python environment on WSL & Windows machine](https://hackmd.io/-5klK7JxSTi6goi5Ee8Mfg) 
-	[Con](https://gist.github.com/thecraftman/fc93c38b31065a3d703a2ef23f3e57dd)
+	[Conf](https://gist.github.com/thecraftman/fc93c38b31065a3d703a2ef23f3e57dd)
 
 ---------------------------------------
 	
