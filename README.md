@@ -11,11 +11,11 @@ Based on CHAOSS D&I standards, integration of multiple languages will help strea
 
 Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://github.com/germonprez), [Saleh Abdel Motaal](https://github.com/SMotaal)
 
---------------------------------------
+------------------------------------
 
 - [Badging by CHAOSS Repo](https://github.com/badging/)
 - [CHAOSS-MICROTASKS](https://github.com/thecraftman/CHAOSS-microtasks)
-- [Proposal](https://docs.google.com/document/d/1wWXZIM60iaA7XtlfNIsI2YZtK1Y_g9UwIFM0jcs0hcc/edit?usp=sharing)
+- [Proposal](https://docs.google.com/document/d/1wWXZIM60iaA7XtlfNIsI2YZtK1Y_g9UwIFM0jcs0hcc/edit?usp=sharing
 
 
 - Google DOC extended report [here](https://docs.google.com/document/d/1Ut8qFAs8UtnruXCLsDNbxmqI3gfzZCuG5rrLmoQPJlg/edit?usp=sharing)
