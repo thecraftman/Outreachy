@@ -30,7 +30,7 @@ Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://
 - Translation work done on CHAOSS Community handbook [here](https://github.com/thecraftman/governance/tree/translation/es/community-handbook)
 -------------------------------------------
 
-#### PLATFORMS analyzed and reviewed
+#### PLATFORMS analyzed and reviewe
 
 **WEBLATE**
 
