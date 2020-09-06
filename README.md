@@ -23,13 +23,13 @@ Mentors:  [Matt Snell](https://github.com/Nebrethar), [Matt Germonprez](https://
 
 -  Outreachy Medium blog posts:
    1. [My Outreachy Journey](https://medium.com/@thecraftman/my-outreachy-journey-everybody-struggles-682a4943a1cf)
-   2. [How i got selected as an Outreachy Intern](https://chaoss.community/mentorship-blog/2020/05/14/outreachy-blog/
+   2. [How i got selected as an Outreachy Intern](https://chaoss.community/mentorship-blog/2020/05/14/outreachy-blog/)
      
 - Translation work done on CHAOSS Community handbook [here](https://github.com/thecraftman/governance/tree/translation/es/community-handbook)
 
 -------------------------------------------
 
-#### PLATFORMS analyzed and reviewed 
+#### PLATFORMS analyzed and reviewed.
 
 **WEBLATE**
 
