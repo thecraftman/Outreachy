@@ -2,7 +2,7 @@
 
 # Crowdsourcing Translation for [CHAOSS](https://chaoss.community/) Diversity & Inclusion Badging
 
-## Project Abstrac
+## Project Abstract
 
 CHAOSS Diversity & Inclusion (D&I) Badging program focuses on Issuing Badges to Opensource projects and Events after D&I standards and metrics requirements are attained. 
 
