@@ -1,6 +1,6 @@
 ![1](https://user-images.githubusercontent.com/24816990/90947377-43c70880-e42d-11ea-8e03-1346225a9f0a.PNG)
 
-# Crowdsourcing Translation for [CHAOSS](https://chaoss.community/) Diversity & Inclusion Badg
+# Crowdsourcing Translation for [CHAOSS](https://chaoss.community/) Diversity & Inclusion Badging. 
 
 ## Project Abstract
 
